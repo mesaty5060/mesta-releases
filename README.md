@@ -11,6 +11,7 @@
 | **Mesta Snap** | لقطة شاشة بضغطة واحدة — حدّد منطقة أو نافذة، ارسم وموّه، ثم انسخ أو احفظ أو شارك. | 1.0.2 | [MestaSnap-Setup-1.0.2.exe](https://github.com/mesaty5060/mesta-releases/releases/download/snap-v1.0.2/MestaSnap-Setup-1.0.2.exe) | 56 MB |
 | **Mesta Translate** | ترجمة فورية — حدّد أي كلام على الشاشة واقرأه بلغتك، أو اكتب في المترجم بالقائمتين. | 1.0.1 | [MestaTranslate-Setup-1.0.1.exe](https://github.com/mesaty5060/mesta-releases/releases/download/translate-v1.0.1/MestaTranslate-Setup-1.0.1.exe) | 56 MB |
 | **Mesta RAR** | مدير ملفات مضغوطة سريع وخفيف جداً — RAR وZIP و7Z وأكثر من 30 صيغة، فك ذكي، وهادئ على المعالج والهارد. | 1.0.2 | [MestaRAR-Setup-1.0.2.exe](https://github.com/mesaty5060/mesta-releases/releases/download/rar-v1.0.2/MestaRAR-Setup-1.0.2.exe) | 3 MB |
+| **Mesta Video Cut** | قص ودمج الفيديو بسرعة فائقة — قص بدون فقد بسرعة القرص، وضع دقيق للإطار بكرت الشاشة، ودمج فوري. | 1.0.0 | [MestaVideoCut-Setup-1.0.0.exe](https://github.com/mesaty5060/mesta-releases/releases/download/videocut-v1.0.0/MestaVideoCut-Setup-1.0.0.exe) | 29 MB |
 
 كل الإصدارات السابقة في صفحة [Releases](https://github.com/mesaty5060/mesta-releases/releases).
 
