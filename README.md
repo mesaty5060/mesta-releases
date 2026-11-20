@@ -5,7 +5,7 @@
 
 | البرنامج / App | الوصف | الإصدار | التنزيل | الحجم |
 |---|---|---|---|---|
-| **Mesta Launcher** | تثبيت وتحديث وتشغيل كل برامج Mesta. | 1.0.3 | [MestaLauncher-Setup-1.0.3.exe](https://github.com/mesaty5060/mesta-releases/releases/download/launcher-v1.0.3/MestaLauncher-Setup-1.0.3.exe) | 47 MB |
+| **Mesta Launcher** | تثبيت وتحديث وتشغيل كل برامج Mesta. | 1.0.4 | [MestaLauncher-Setup-1.0.4.exe](https://github.com/mesaty5060/mesta-releases/releases/download/launcher-v1.0.4/MestaLauncher-Setup-1.0.4.exe) | 48 MB |
 | **Mesta PDF Pro** | قارئ ومحرر PDF احترافي — تعديل النصوص، الأختام والصور، التعرف على النصوص في السكان، والطبقات. | 2.2.2 | [MestaPDFPro-Setup-2.2.2.exe](https://github.com/mesaty5060/mesta-releases/releases/download/pdfpro-v2.2.2/MestaPDFPro-Setup-2.2.2.exe) | 127 MB |
 | **Mesta Download Manager Pro** | مدير تحميل فائق السرعة — حتى 32 اتصالاً للملف، استئناف التحميل، يوتيوب، والتكامل مع المتصفح. | 1.2.4 | [MestaDM-Setup-1.2.4.exe](https://github.com/mesaty5060/mesta-releases/releases/download/downloader-v1.2.4/MestaDM-Setup-1.2.4.exe) | 50 MB |
 
