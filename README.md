@@ -9,6 +9,7 @@
 | **Mesta PDF Pro** | قارئ ومحرر PDF احترافي — تعديل النصوص، الأختام والصور، التعرف على النصوص في السكان، والطبقات. | 2.2.2 | [MestaPDFPro-Setup-2.2.2.exe](https://github.com/mesaty5060/mesta-releases/releases/download/pdfpro-v2.2.2/MestaPDFPro-Setup-2.2.2.exe) | 127 MB |
 | **Mesta Download Manager Pro** | مدير تحميل فائق السرعة — حتى 32 اتصالاً للملف، استئناف التحميل، يوتيوب، والتكامل مع المتصفح. | 1.2.4 | [MestaDM-Setup-1.2.4.exe](https://github.com/mesaty5060/mesta-releases/releases/download/downloader-v1.2.4/MestaDM-Setup-1.2.4.exe) | 50 MB |
 | **Mesta Snap** | لقطة شاشة بضغطة واحدة — حدّد منطقة أو نافذة، ارسم وموّه، ثم انسخ أو احفظ أو شارك. | 1.0.1 | [MestaSnap-Setup-1.0.1.exe](https://github.com/mesaty5060/mesta-releases/releases/download/snap-v1.0.1/MestaSnap-Setup-1.0.1.exe) | 56 MB |
+| **Mesta Translate** | ترجمة فورية — حدّد أي كلام على الشاشة واقرأه بلغتك، أو اكتب في المترجم بالقائمتين. | 1.0.0 | [MestaTranslate-Setup-1.0.0.exe](https://github.com/mesaty5060/mesta-releases/releases/download/translate-v1.0.0/MestaTranslate-Setup-1.0.0.exe) | 56 MB |
 
 كل الإصدارات السابقة في صفحة [Releases](https://github.com/mesaty5060/mesta-releases/releases).
 
