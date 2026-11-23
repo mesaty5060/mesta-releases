@@ -5,7 +5,7 @@
 
 | البرنامج / App | الوصف | الإصدار | التنزيل | الحجم |
 |---|---|---|---|---|
-| **Mesta Launcher** | تثبيت وتحديث وتشغيل كل برامج Mesta. | 1.0.5 | [MestaLauncher-Setup-1.0.5.exe](https://github.com/mesaty5060/mesta-releases/releases/download/launcher-v1.0.5/MestaLauncher-Setup-1.0.5.exe) | 48 MB |
+| **Mesta Launcher** | تثبيت وتحديث وتشغيل كل برامج Mesta. | 1.0.6 | [MestaLauncher-Setup-1.0.6.exe](https://github.com/mesaty5060/mesta-releases/releases/download/launcher-v1.0.6/MestaLauncher-Setup-1.0.6.exe) | 48 MB |
 | **Mesta PDF Pro** | قارئ ومحرر PDF احترافي — تعديل النصوص، الأختام والصور، التعرف على النصوص في السكان، والطبقات. | 2.2.4 | [MestaPDFPro-Setup-2.2.4.exe](https://github.com/mesaty5060/mesta-releases/releases/download/pdfpro-v2.2.4/MestaPDFPro-Setup-2.2.4.exe) | 128 MB |
 | **Mesta Download Manager Pro** | مدير تحميل فائق السرعة — حتى 32 اتصالاً للملف، استئناف التحميل، يوتيوب، والتكامل مع المتصفح. | 1.3.0 | [MestaDM-Setup-1.3.0.exe](https://github.com/mesaty5060/mesta-releases/releases/download/downloader-v1.3.0/MestaDM-Setup-1.3.0.exe) | 53 MB |
 | **Mesta Snap** | لقطة شاشة بضغطة واحدة — حدّد منطقة أو نافذة، ارسم وموّه، ثم انسخ أو احفظ أو شارك. | 1.0.2 | [MestaSnap-Setup-1.0.2.exe](https://github.com/mesaty5060/mesta-releases/releases/download/snap-v1.0.2/MestaSnap-Setup-1.0.2.exe) | 56 MB |
