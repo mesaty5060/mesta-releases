@@ -12,7 +12,7 @@
 | **Mesta Translate** | ترجمة فورية — حدّد أي كلام على الشاشة واقرأه بلغتك، أو اكتب في المترجم بالقائمتين. | 1.0.2 | [MestaTranslate-Setup-1.0.2.exe](https://github.com/mesaty5060/mesta-releases/releases/download/translate-v1.0.2/MestaTranslate-Setup-1.0.2.exe) | 56 MB |
 | **Mesta Zip** | مدير ملفات مضغوطة سريع وخفيف جداً — يفتح ZIP و7Z وRAR وأكثر من 30 صيغة، فك ذكي، وهادئ على المعالج والهارد. | 1.0.4 | [MestaZip-Setup-1.0.4.exe](https://github.com/mesaty5060/mesta-releases/releases/download/rar-v1.0.4/MestaZip-Setup-1.0.4.exe) | 3 MB |
 | **Mesta Video Cut** | قص ودمج الفيديو بسرعة فائقة — قص بدون فقد بسرعة القرص، وضع دقيق للإطار بكرت الشاشة، ودمج فوري. | 1.0.1 | [MestaVideoCut-Setup-1.0.1.exe](https://github.com/mesaty5060/mesta-releases/releases/download/videocut-v1.0.1/MestaVideoCut-Setup-1.0.1.exe) | 29 MB |
-| **Mesta IPTV** | مشغّل IPTV لقوائمك الخاصة (M3U و Xtream و Stalker) مع دليل البرامج وروابط البث وفاحص الروابط والتصدير. لا يأتي بأي قنوات. | 1.0.3 | [MestaIPTV-Setup-1.0.3.exe](https://github.com/mesaty5060/mesta-releases/releases/download/iptv-v1.0.3/MestaIPTV-Setup-1.0.3.exe) | 132 MB |
+| **Mesta IPTV** | مشغّل IPTV لقوائمك الخاصة (M3U و Xtream و Stalker) مع دليل البرامج وروابط البث وفاحص الروابط والتصدير. لا يأتي بأي قنوات. | 1.0.4 | [MestaIPTV-Setup-1.0.4.exe](https://github.com/mesaty5060/mesta-releases/releases/download/iptv-v1.0.4/MestaIPTV-Setup-1.0.4.exe) | 132 MB |
 
 كل الإصدارات السابقة في صفحة [Releases](https://github.com/mesaty5060/mesta-releases/releases).
 
